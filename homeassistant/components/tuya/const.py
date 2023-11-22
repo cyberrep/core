@@ -336,7 +336,7 @@ class DPCode(StrEnum):
     TEMP_UNIT_CONVERT = "temp_unit_convert"  # Temperature unit switching
     TEMP_VALUE = "temp_value"  # Color temperature
     TEMP_VALUE_V2 = "temp_value_v2"
-    TEMPER_ALARM = "temper_alarm"  # Tamper alarm
+    TEMPER_ALARM = "tamper_alarm"  # Tamper alarm
     TIME_TOTAL = "time_total"
     TOTAL_CLEAN_AREA = "total_clean_area"
     TOTAL_CLEAN_COUNT = "total_clean_count"
